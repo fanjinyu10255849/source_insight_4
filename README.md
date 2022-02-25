@@ -12,7 +12,8 @@
 	运行替换后的二进制文件sourceinsight4.exe,按着如下提示进行破解:
 	在弹出的对话框中选择第三项并导入文件 si4.pediy.lic, 点击Next 即可破解
 	![破解](./image/破解提示图.png)
-        禁止source insight联网：
+        
+	禁止source insight联网：
 	打开“网络共享中心”，选择左下角的“Windows防火墙”，然后选择“高级设计”->选择“出站规则”->“新建规则”->选择类型为“程序”->输入source insight的安装路径下的启动程序sourceinsight4.exe->阻止连         接->所有类型的网络都选上->取个你喜欢的名称
 	
 - **` 卸载流程`**
